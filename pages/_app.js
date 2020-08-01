@@ -1,3 +1,8 @@
+/**
+ * Using a custom _app.js with next-seo you can set default SEO
+ * that will apply to every page. Full info on how the default works
+ * can be found here: https://github.com/garmeeh/next-seo#default-seo-configuration
+ */
 import App from "next/app";
 import Head from "next/head";
 import Router from "next/router";
